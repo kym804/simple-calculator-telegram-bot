@@ -1,4 +1,4 @@
-# python-telegram-bot
+# simple-calculator-telegram-bot
 Telegram bot compatible with Python 3.7. Webhooks with ngrok to Telegram bot message stream, conditional responses.
 
 ## Instructions For Use:
@@ -16,7 +16,6 @@ Install Flask Framework using pip:
 
 > pip install -U Flask
 
-Configure conditional actions based on Telegram message text in telegram_bot.py TelegramBot.action class method
-
 Run the app server however you have python3.7 set to PATH:
+
 > python3.7 app.py
